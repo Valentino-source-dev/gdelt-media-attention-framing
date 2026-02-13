@@ -32,8 +32,11 @@ report/
 - Methodological limitations are discussed in the report
 
 ## Report
-The final research report is available in `report/report_untructured_data(2).pdf`.  
-The document is written in **Spanish and Italian**, reflecting the academic context in which the project was developed.
+The final research reports are available in the `report/` directory:
+- `report/report_es_it.pdf`
+- `report/report_it.pdf`
+
+The documents are written in **Spanish and Italian**, reflecting the academic context in which the project was developed.
 
 ## Reproducibility
 All scripts are numbered to reflect the logical execution order of the pipeline.  
