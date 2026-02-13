@@ -1,0 +1,19 @@
+# Raw data
+data/raw/
+
+# Logs
+*.log
+
+# R history / temp
+.Rhistory
+.Rapp.history
+
+# System files
+.DS_Store
+
+# Archives
+*.zip
+
+# Large intermediate files
+data/processed/masterfilelist.txt
+
